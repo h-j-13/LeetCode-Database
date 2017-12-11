@@ -20,9 +20,7 @@ For example, the table:
 | I       | Math       |
 +---------+------------+
 ```
-
 Should output:
-
 ```
 +---------+
 | class   |
