@@ -20,6 +20,16 @@ Click the link below for more information
 * [LeetCode 181. Employees Earning More Than Their Managers](https://github.com/h-j-13/LeetCode-Database/blob/8e412e8d9946da14617e9d346623707f8f68357a/Soulution/LeetCode-181--Employees-Earning-More-Than-Their-Managers.md)
 
 
+* [LeetCode 627. Swap Salary](https://github.com/h-j-13/LeetCode-Database/blob/f457d5ca589d69a7098559f6a3908352b56b819d/Soulution/LeetCode%20627.%20Swap%20Salary.md)
+
+* [LeetCode 620. Not Boring Movies](https://github.com/h-j-13/LeetCode-Database/blob/f457d5ca589d69a7098559f6a3908352b56b819d/Soulution/LeetCode%20620.%20Not%20Boring%20Movies.md)
+
+* [LeetCode 596. Classes More Than 5 Students](https://github.com/h-j-13/LeetCode-Database/blob/f457d5ca589d69a7098559f6a3908352b56b819d/Soulution/LeetCode%20596.%20Classes%20More%20Than%205%20Students.md)
+
+* [LeetCode196. Delete Duplicate Emails](https://github.com/h-j-13/LeetCode-Database/blob/f457d5ca589d69a7098559f6a3908352b56b819d/Soulution/LeetCode196.%20Delete%20Duplicate%20Emails.md)
+
+* [LeetCode176. Second Highest Salary](https://github.com/h-j-13/LeetCode-Database/blob/f457d5ca589d69a7098559f6a3908352b56b819d/Soulution/LeetCode176.%20Second%20Highest%20Salary.md)
+
 ## Contact
 H-J-13(@`13)                                         
 z.g.13@163.com/h.j.13.new@gmail.com                 
