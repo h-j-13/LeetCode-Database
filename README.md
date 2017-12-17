@@ -3,6 +3,7 @@ LeetCode-Database
 LeetCode Database problems collection(just free problems)
 
 ## Details
+
 Click the link below for more information
 
 ### Now include
@@ -30,7 +31,16 @@ Click the link below for more information
 
 * [LeetCode176. Second Highest Salary](https://github.com/h-j-13/LeetCode-Database/blob/f457d5ca589d69a7098559f6a3908352b56b819d/Soulution/LeetCode176.%20Second%20Highest%20Salary.md)
 
+* [LeetCode 626. Exchange Seats](https://github.com/h-j-13/LeetCode-Database/blob/a71a9ec6f6fab32aba35c10fa35d6dc09be92909/Soulution/LeetCode%20626.%20Exchange%20Seats.md)
+
+* [LeetCode 178. Rank Scores](https://github.com/h-j-13/LeetCode-Database/blob/a71a9ec6f6fab32aba35c10fa35d6dc09be92909/Soulution/LeetCode%20178.%20Rank%20Scores.md)
+
+* [LeetCode 184. Department Highest Salary](https://github.com/h-j-13/LeetCode-Database/blob/a71a9ec6f6fab32aba35c10fa35d6dc09be92909/Soulution/LeetCode%20184.%20Department%20Highest%20Salary.md)
+
+* [LeetCode 177. Nth Highest Salary](https://github.com/h-j-13/LeetCode-Database/blob/a71a9ec6f6fab32aba35c10fa35d6dc09be92909/Soulution/LeetCode%20177.%20Nth%20Highest%20Salary.md)
+
 ## Contact
+
 H-J-13(@`13)                                         
 z.g.13@163.com/h.j.13.new@gmail.com                 
 Harbin Institute of Technology at Weihai     
