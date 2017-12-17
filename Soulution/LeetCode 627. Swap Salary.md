@@ -44,6 +44,12 @@ CASE case_value
     WHEN when_value THEN statement_list
     [WHEN when_value THEN statement_list] ...
     [ELSE statement_list]
+END 
+-- CASE 标准格式 (case后不接value)
+CASE
+    WHEN search_condition THEN statement_list
+    [WHEN search_condition THEN statement_list] ...
+    [ELSE statement_list]
 END CASE
 ```
 
