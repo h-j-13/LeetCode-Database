@@ -20,7 +20,6 @@ Click the link below for more information
 
 * [LeetCode 181. Employees Earning More Than Their Managers](https://github.com/h-j-13/LeetCode-Database/blob/8e412e8d9946da14617e9d346623707f8f68357a/Soulution/LeetCode-181--Employees-Earning-More-Than-Their-Managers.md)
 
-
 * [LeetCode 627. Swap Salary](https://github.com/h-j-13/LeetCode-Database/blob/f457d5ca589d69a7098559f6a3908352b56b819d/Soulution/LeetCode%20627.%20Swap%20Salary.md)
 
 * [LeetCode 620. Not Boring Movies](https://github.com/h-j-13/LeetCode-Database/blob/f457d5ca589d69a7098559f6a3908352b56b819d/Soulution/LeetCode%20620.%20Not%20Boring%20Movies.md)
@@ -38,6 +37,11 @@ Click the link below for more information
 * [LeetCode 184. Department Highest Salary](https://github.com/h-j-13/LeetCode-Database/blob/a71a9ec6f6fab32aba35c10fa35d6dc09be92909/Soulution/LeetCode%20184.%20Department%20Highest%20Salary.md)
 
 * [LeetCode 177. Nth Highest Salary](https://github.com/h-j-13/LeetCode-Database/blob/a71a9ec6f6fab32aba35c10fa35d6dc09be92909/Soulution/LeetCode%20177.%20Nth%20Highest%20Salary.md)
+
+* [LeetCode 185. Department Top Three Salaries](https://github.com/h-j-13/LeetCode-Database/blob/52ac2f774a469341a632417763b6ff74b46b16d1/Soulution/LeetCode%20185.%20Department%20Top%20Three%20Salaries.md)
+
+* [LeetCode 262. Trips and Users](https://github.com/h-j-13/LeetCode-Database/blob/52ac2f774a469341a632417763b6ff74b46b16d1/Soulution/LeetCode%20262.%20Trips%20and%20Users.md)
+
 
 ## Contact
 
