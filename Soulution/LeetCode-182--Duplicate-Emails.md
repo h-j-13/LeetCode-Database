@@ -23,22 +23,23 @@ For example, your query should return the following for the above table:
 ```
 Note: All emails are in lowercase.
 
-` 题目大意:编写一个SQL查询从Person表中找出所有重复的邮箱地址。`
+题目大意:编写一个SQL查询从Person表中找出所有重复的邮箱地址。
 
 ## 解题思路
 * GROUP BY HAVING
 ```SQL
- SELECT `Email` FROM `Person` GROUP BY `Email` HAVING COUNT(*) > 1 ```
+ SELECT `Email` FROM `Person` GROUP BY `Email` HAVING COUNT(*) > 1 
+```
 
 * 做笛卡尔积
 
   * DISTINCT
 ```SQL
  SELECT DISTINCT t1.`Email`  FROM `Person` AS t1, `Person` AS  t2   WHERE t1.id != t2.id and t1.`Email` = t2.`Email` ```
-
-  * INNER JOIN
 ```
-SQL
+  * INNER JOIN
+
+```SQL
 SELECT DISTINCT p.Email FROM Person p INNER JOIN Person q ON p.Id != q.Id AND p.Email = q.Email;
 ```
 
