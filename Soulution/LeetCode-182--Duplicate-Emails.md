@@ -28,16 +28,17 @@ Note: All emails are in lowercase.
 ## 解题思路
 * GROUP BY HAVING
 ```SQL
- SELECT `Email` FROM `Person` GROUP BY `Email` HAVING COUNT(*) > 1 
+SELECT `Email` FROM `Person` GROUP BY `Email` HAVING COUNT(*) > 1 
 ```
 
 * 做笛卡尔积
 
-  * DISTINCT
+1. DISTINCT
 ```SQL
  SELECT DISTINCT t1.`Email`  FROM `Person` AS t1, `Person` AS  t2   WHERE t1.id != t2.id and t1.`Email` = t2.`Email` ```
 ```
-  * INNER JOIN
+  
+2. INNER JOIN
 
 ```SQL
 SELECT DISTINCT p.Email FROM Person p INNER JOIN Person q ON p.Id != q.Id AND p.Email = q.Email;
