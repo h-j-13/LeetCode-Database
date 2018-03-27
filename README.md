@@ -42,6 +42,7 @@ Click the link below for more information
 
 * [LeetCode 262. Trips and Users](https://github.com/h-j-13/LeetCode-Database/blob/52ac2f774a469341a632417763b6ff74b46b16d1/Soulution/LeetCode%20262.%20Trips%20and%20Users.md)
 
+* [LeetCode 180. Consecutive Numbers](https://github.com/h-j-13/LeetCode-Database/blob/master/Soulution/180.%20Consecutive%20Numbers.md)
 
 ## Contact
 
