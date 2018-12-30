@@ -26,7 +26,7 @@ Note: All emails are in lowercase.
 题目大意:编写一个SQL查询从Person表中找出所有重复的邮箱地址。
 
 ## 解题思路
-* GROUP BY HAVING
+GROUP BY HAVING
 ```SQL
 SELECT `Email` FROM `Person` GROUP BY `Email` HAVING COUNT(*) > 1 
 ```
@@ -34,6 +34,7 @@ SELECT `Email` FROM `Person` GROUP BY `Email` HAVING COUNT(*) > 1
 * 做笛卡尔积
 
 1. DISTINCT
+
 ```SQL
  SELECT DISTINCT t1.`Email`  FROM `Person` AS t1, `Person` AS  t2   WHERE t1.id != t2.id and t1.`Email` = t2.`Email` ```
 ```
@@ -48,5 +49,5 @@ SELECT DISTINCT p.Email FROM Person p INNER JOIN Person q ON p.Id != q.Id AND p.
 
 ## GROUP BY HAVING 官方文档 
 
-[GROUP BY](https://dev.mysql.com/doc/refman/5.7/en/group-by-functions.html) 数据分组(聚合)
+[GROUP BY](https://dev.mysql.com/doc/refman/5.7/en/group-by-functions.html) 数据分组(聚合)      
 [HAVING](https://dev.mysql.com/doc/refman/5.7/en/group-by-modifiers.html) 数据聚合后的筛选
